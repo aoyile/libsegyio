@@ -10,4 +10,4 @@ By the way, the `libsegyio` library is licensed under the GNU General Public Lic
 
 **Ao Yile** (aoyile@yeah.net)
 
-Department of Automation, Tsinghua University, Beijing, 100084, China
+The Easysignal Team, Department of Automation, Tsinghua University
