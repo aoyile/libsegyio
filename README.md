@@ -8,8 +8,6 @@ By the way, the `libsegyio` library is licensed under the GNU General Public Lic
 
 # Contact
 
-**Ao Yile**
-aoyile(at)yeah.net
-Department of Automation, Tsinghua University
-Haidian, Beijing, 100084, China
-
+**Ao Yile** (aoyile@yeah.net) 
+Department of Automation, Tsinghua University 
+Haidian, Beijing, 100084, China 
